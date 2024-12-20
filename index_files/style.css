@@ -30,7 +30,7 @@ html {
   height: 40px;
   background: transparent no-repeat center center;
   background-size: 100% 100%;
-  background-image: url("img/up-arrow.svg");
+  background-image: url("./index_files/up-arrow.svg");
 }
 
 .btn-up_hide {
@@ -133,7 +133,7 @@ a:focus {
   height: 15px;
   top: 7px;
   left: 12px;
-  background-image: url("img/moon-normal.svg");
+  background-image: url("./index_files/moon-normal.svg");
 }
 
 .theme-button:active {
@@ -151,7 +151,7 @@ a:focus {
 
 .theme-button:focus::before,
 .theme-button:hover::before {
-  background-image: url("img/moon-hover.svg");
+  background-image: url("./index_files/moon-hover.svg");
 }
 
 .page-header--mini .container {
@@ -176,7 +176,7 @@ a:focus {
   height: 22px;
   margin-right: 6px;
   vertical-align: bottom;
-  background-image: url("img/logo_black.svg");
+  background-image: url("./index_files/logo_black.svg");
   background-repeat: no-repeat;
 }
 
@@ -364,7 +364,7 @@ a:focus {
   display: block;
   width: 48px;
   height: 48px;
-  background-image: url("img/quote.svg");
+  background-image: url("./index_files/quote.svg");
   background-repeat: no-repeat;
 }
 
@@ -435,7 +435,7 @@ p.contacts-name {
   display: block;
   width: 22px;
   height: 22px;
-  background-image: url("img/logo_black.svg");
+  background-image: url("./index_files/logo_black.svg");
   background-repeat: no-repeat;
 }
 
@@ -460,7 +460,7 @@ p.contacts-name {
 }
 
 .dark-theme .theme-button::before {
-  background-image: url("img/sun-normal.svg");
+  background-image: url("./index_files/sun-normal.svg");
 }
 
 .dark-theme .theme-button:focus,
@@ -482,7 +482,7 @@ p.contacts-name {
 
 .dark-theme .theme-button:focus::before,
 .dark-theme .theme-button:hover::before {
-  background-image: url("img/sun-hover.svg");
+  background-image: url("./index_files/sun-hover.svg");
 }
 
 .dark-theme .status p,
@@ -506,7 +506,7 @@ p.contacts-name {
 }
 
 .dark-theme .quotes blockquote::before {
-  background-image: url("img/quote-dark.svg");
+  background-image: url("./index_files/quote-dark.svg");
 }
 
 .dark-theme .page-footer {
